@@ -11,7 +11,7 @@
 
 body{
     padding: 0%;
-    background-image:"bg.JPG";
+    background-image:url("bg.JPG");
 }
 
 section{
